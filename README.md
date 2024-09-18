@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyusi Divakov</h1>
-<h3 align="center">💻 A passionate Frontend Developer from Bulgaria 💻</h3>
+<h3 align="center">💻 A passionate Full Stack Developer from Bulgaria 💻</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/9530966/file/original-f6a6c5df77049ad5d1786ceb9835a042.jpg?resize=1200x762" alt="divakovdev" />
 
