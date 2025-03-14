@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My Own Projects**
 
-- 🌱 I’m currently learning **Redux, Mongo, React, TypeScript**
+- 🌱 I’m currently learning **React, TypeScript, Mongo**
 
 - 👨‍💻 All of my projects are available at [https://www.lyusidivakov.com](https://www.lyusidivakov.com)
 
