@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lyusi Divakov</h1>
-<h3 align="center">💻 A passionate Full Stack Developer from Bulgaria 💻</h3>
+<h3 align="center">💻 A passionate Full Stack Web Developer from Bulgaria 💻</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/9530966/file/original-f6a6c5df77049ad5d1786ceb9835a042.jpg?resize=1200x762" alt="divakovdev" />
 
-- 🔭 I’m currently working on **My Own Projects**
+- 🔭 I’m currently working at **C4NEXUS**
 
-- 🌱 I’m currently learning **React, TypeScript, Mongo**
+- 🌱 I’m currently learning **React, TypeScript, Mongo, ExpressJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://www.lyusidivakov.com](https://www.lyusidivakov.com)
 
 - 📫 How to reach me **divakovwork@gmail.com**
 
-- ⚡ Fun fact **I'm open to work with everyone!**
+- ⚡ Fun fact **I'm open for new collaborations!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
