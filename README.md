@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **C4NEXUS**
 
-- 🌱 I’m currently learning **React, TypeScript, Mongo, ExpressJS, NodeJS**
+- 🌱 I’m currently learning **React, TypeScript, ExpressJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://www.lyusidivakov.com](https://www.lyusidivakov.com)
 
