@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, TypeScript, ExpressJS, NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://www.lyusidivakov.com](https://www.lyusidivakov.com)
-
 - 📫 How to reach me **divakovwork@gmail.com**
 
 - ⚡ Fun fact **I'm open for new collaborations!**
