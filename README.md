@@ -26,5 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divakovdev&show_icons=true&locale=en" alt="divakovdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divakovdev&" alt="divakovdev" /></p>
-
