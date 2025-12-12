@@ -16,7 +16,6 @@
 <a href="https://twitter.com/LDivakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ldivakov" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lyusi-divakov-955842272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyusi divakov" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100007581137528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="люси диваков" height="30" width="40" /></a>
-<a href="https://instagram.com/d1vakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d1vakov" height="30" width="40" /></a>
 <a href="https://discord.gg/Диваков#9301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="divakov_push" height="30" width="40" /></a>
 </p>
 
